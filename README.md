@@ -1,5 +1,5 @@
 # SwiftUITodoApp
-This is a sample todo app implemented with following three configurations.
+This is a sample todo app implemented with the following three configurations.
 
 - SwiftUI + Combine
 - UIKit + Combine
