@@ -8,7 +8,7 @@ This is a sample todo app implemented with the following three configurations.
 <img src=https://user-images.githubusercontent.com/8536870/102258251-13adf300-3f51-11eb-8a3d-957e968fa9f4.gif width=300>
 
 ## Architecture
-a simple MVVM and using Core Data for local DB.
+A simple MVVM and using Core Data for local DB.
 
 <img src=https://user-images.githubusercontent.com/8536870/102254120-9a5fd180-3f4b-11eb-824d-343e18acb55b.png width=250>
 
